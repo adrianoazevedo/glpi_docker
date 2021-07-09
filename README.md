@@ -60,3 +60,11 @@ senha: glpi
 usuario: glpi
 senha: glpi
 ```
+### Os usuários e senhas padrões são:
+
+```bash
+-glpi/glpi para a conta do usuário administrador
+-tech/tech para a conta do usuário técnico
+-normal/normal para a conta do usuário normal
+-post-only/postonly para a conta do usuário postonly
+```
