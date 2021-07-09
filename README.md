@@ -44,8 +44,8 @@ chown 472:472 ./var/lib/mysql \
 ```bash
 docker-compose up -d
 ```
-Para acesar o **GLPI** acesse http://<seu_ip> 
-
+Para acesar o **GLPI** acesse http://<seu_ip> **OU** http://localhost
+ 
 ### Configurando GLPI
 
 ```bash
